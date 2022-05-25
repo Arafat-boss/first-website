@@ -1,0 +1,33 @@
+.all-bg{
+    background-color: rgba(173, 239, 217, 0.57);
+}
+.carousel-item{
+    padding: 20px 150px;
+}
+.btn{
+    background-image: linear-gradient(rgba(17, 232, 239, 0.822),rgba(120, 228, 218, 0.723));
+    border: none;
+    /* margin-top: 20px; */
+    padding: 9px 25px;
+    border-radius: 10px;
+}
+.row p{
+    color: gray;
+    font-size: 16px;    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    align-items: center;
+}
+.card img{
+    width: 200px;
+}
+.item-btn{
+    color: white;
+    background-color: black;
+    border: none;
+    /* margin-top: 20px; */
+    padding: 9px 25px;
+    border-radius: 8px;
+}
