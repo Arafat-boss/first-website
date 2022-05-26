@@ -31,3 +31,30 @@
     padding: 9px 25px;
     border-radius: 8px;
 }
+.fa-brands{
+    color: grey;
+}
+.fa-solid{
+    color: grey;
+}
+.row h6{
+    padding-left: 15px;
+}
+.hh{
+    margin-top: 20px;
+}
+.futter-bg{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(2, 1, 1);
+}
+p{
+    color: grey;
+    font-size: 14px;
+}
+.futter-bg h2,h6{
+    color: white;
+}
+.futter-bg p{
+    color: white;
+}
